@@ -21,9 +21,19 @@ Le projet est réalisé en utilisant Python et nécessite l'installation des pac
 
 Ces packages peuvent être installés à l'aide de pip :
 
-\```
-pip install pandas numpy matplotlib seaborn scikit-learn
-\```
+```
+pip install pandas numpy matplotlib seaborn
+```
+
+## Comment utiliser le jeu de données
+
+Le jeu de données est un fichier CSV nommé 'DS_speed_dating.csv'. Il peut être chargé en Python en utilisant la bibliothèque pandas :
+
+```python
+import pandas as pd
+
+data = pd.read_csv('chemin_vers_le_fichier/DS_speed_dating.csv', encoding='ISO-8859-1')
+```
 
 ## Comment utiliser le jeu de données
 
