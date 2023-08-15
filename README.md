@@ -39,11 +39,11 @@ data = pd.read_csv('chemin_vers_le_fichier/airline_passenger_satisfaction.csv')
 
    - **Principales découvertes:**
 
-   L'analyse a révélé des insights importants sur les facteurs qui influencent la satisfaction des passagers. Les domaines clés identifiés comprennent la qualité du service à bord, les délais de vol, la facilité de réservation, et les services à l'aéroport.
+   L'analyse a révélé des insights importants sur les facteurs qui influencent la satisfaction des passagers. Les domaines clés identifiés comprennent la qualité du service à bord, la facilité de réservation, et les services à l'aéroport.
    
    - **Recommandations:**
 
-   Les recommandations sont basées sur les résultats de l'analyse et visent à améliorer les domaines clés identifiés. Des actions ciblées telles que l'amélioration du service à bord, la réduction des retards de vol et l'amélioration de l'expérience de réservation peuvent contribuer à augmenter le taux de satisfaction.
+   Les recommandations sont basées sur les résultats de l'analyse et visent à améliorer les domaines clés identifiés. Des actions ciblées telles que l'amélioration du service à bord, et l'amélioration de l'expérience de réservation peuvent contribuer à augmenter le taux de satisfaction.
 
 **Conclusion**
 
