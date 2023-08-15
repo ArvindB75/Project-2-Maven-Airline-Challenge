@@ -22,7 +22,7 @@ Le projet est réalisé en utilisant Python et nécessite l'installation des pac
 Ces packages peuvent être installés à l'aide de pip :
 
 ```
-pip install pandas numpy matplotlib seaborn scikit learn plotly dash
+pip install pandas numpy matplotlib seaborn sklearn plotly dash
 ```
 
 ## Comment utiliser le jeu de données
