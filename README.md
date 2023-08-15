@@ -35,16 +35,6 @@ import pandas as pd
 data = pd.read_csv('chemin_vers_le_fichier/airline_passenger_satisfaction.csv')
 ```
 
-## Comment utiliser le jeu de données
-
-Le jeu de données est un fichier CSV contenant des informations sur la satisfaction des passagers. Il peut être chargé en Python en utilisant la bibliothèque pandas :
-
-\```python
-import pandas as pd
-
-data = pd.read_csv('chemin_vers_le_fichier/airline_passenger_satisfaction.csv')
-\```
-
 ## Résultats et conclusions
 
    - **Principales découvertes:**
